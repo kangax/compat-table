@@ -320,7 +320,7 @@ exports.tests = [
         duktape2_0: false,
         graalvm19: false,
         graalvm20: false,
-        graalvm20_1: false,
+        graalvm20_1: graalvm.es2021flag,
       }
     }
   ]
